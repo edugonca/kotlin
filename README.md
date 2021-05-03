@@ -1,2 +1,2 @@
-# kotlin
-Repositório inicial para aula de Kotlin
+# First code in Kotlin
+Repositório oficial para as aulas de Kotlin do Devaria
